@@ -1,1 +1,2 @@
-# git-sample2-kitty
+user/kitty
+git-sample2-kitty
